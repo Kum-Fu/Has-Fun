@@ -22,3 +22,7 @@ should only modify the exercise files at the locations hinted by comments.
 
 After completing the exercises, the results can be verified by running:
 `cabal test`
+
+## Course Material
+
+The material for this course can be found at the wiki pages of the course's GitHub repository (https://github.com/Kum-Fu/Has-Fun/wiki).
