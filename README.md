@@ -1,6 +1,8 @@
 # Has-Fun
 
-This repository contains a Haskell programming course.
+This repository contains a Haskell programming course. 
+
+Unlike most programming courses, this course aims to take a "theory first" approach while maintaining understability. The aim of this course is to show that Haskell is not only a great language because of its powerful and concise syntax, but also because it is easy to reason about properties of Haskel programs.
 
 ## Getting Started
 
